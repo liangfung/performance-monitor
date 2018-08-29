@@ -1,3 +1,3 @@
-# performance-monitoring
+# performance-monitor
 
 前端性能监控工具
